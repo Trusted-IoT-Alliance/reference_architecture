@@ -11,7 +11,7 @@ A digital twin is a persistent digital object whose digital lifecycle tracks the
 
 The connection between a physical asset can strengthened and trust can be reduced through the application of secure IoT technologies. There applications in this domain from fraud prevention to supply chain finance to trading.
 
- Trusted IoT devices should attempt preserve
+Trusted IoT devices should attempt preserve the end to end principle for signatures. 
 
 
 
