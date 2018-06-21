@@ -3,8 +3,8 @@
 
 This Github repository is hosts work in progress on the Trusted IoT Alliance reference archtitecture.
 
-See (Whitepaper.md)[./WHITEPAPER.md] for the work in progress white paper.
-See (/specs)[./specs] for member contributed specifications
+See [Whitepaper.md](./WHITEPAPER.md) for the work in progress white paper.
+See [/specs](./specs) for member contributed specifications
 
 ## Contributing
 
